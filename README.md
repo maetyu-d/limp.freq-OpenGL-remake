@@ -1,6 +1,6 @@
-# Circular Bot World (OpenGL)
+# limp.freq (LLD Bot World, OpenGL remake)
 
-Top-down OpenGL simulation of a circular world with:
+OpenGL simulation of a circular world with:
 - Diameter: 10,000 pixels (world-space units)
 - 1000 green self-navigating bots
 - Bots with asymmetrical movement constraints (slower, wobbly, less efficient, easier left turns)
